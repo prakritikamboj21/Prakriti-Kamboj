@@ -1,0 +1,6 @@
+{
+  "name": "Saffron & Wok - Artisan Pan-Asian & Tandoor",
+  "description": "A culinary odyssey uniting ancient subcontinental charcoal tandoor craftsmanship with authentic South Indian tiffins and fiery Indo-Chinese wok alchemy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
